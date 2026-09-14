@@ -1,0 +1,20 @@
+body{
+    max-height: fit-content;
+    background: gray;
+    margin: 0 auto;
+}
+
+.Home p ,a{
+    display: inline;
+    color: #56e22b;
+    text-decoration: none;
+}
+
+.Home{
+  background: blue;
+  margin-bottom: 48px;
+}
+
+.Home a:hover{
+    color: wheat;
+}
