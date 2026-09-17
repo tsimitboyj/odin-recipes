@@ -18,3 +18,17 @@ body{
 .Home a:hover{
     color: wheat;
 }
+
+h1{
+    text-align: center;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+ul, ol{
+  text-align: left;
+  width: fit-content;
+  margin: 0 auto;
+}
